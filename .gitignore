@@ -2,3 +2,4 @@
 *~
 target/
 test.db
+.lein-repl-history
