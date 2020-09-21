@@ -1,4 +1,4 @@
-(ns hello.core
+(ns music.core
   (:require [clojure.java.jdbc :refer :all])
   (:gen-class))
 
